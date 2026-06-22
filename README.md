@@ -1,6 +1,6 @@
 # Norman Inventory Dashboard
 
-An Excel-based inventory tracking system for window treatment products, built to parse, validate, and report on product data using formulas only — no hardcoded values.
+An Excel-based inventory tracking system for window treatment products, built to parse, validate, and report on product data using formulas only.
 
 ## Overview
 
