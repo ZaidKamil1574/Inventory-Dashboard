@@ -22,7 +22,8 @@ Each Product ID is parsed into Brand, Product Line, Manufacture Year, Age, and a
 
 ### Units Produced by Product Line
 
-![Units produced by product line](./readme_assets/units_by_product_line.png)
+![Units produced by product line](<img width="1002" height="377" alt="image" src="https://github.com/user-attachments/assets/dced800c-0634-4db7-8200-417d55c80a30" />
+)
 
 ### Units Produced by Color
 
